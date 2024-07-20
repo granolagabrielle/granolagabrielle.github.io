@@ -103,7 +103,7 @@ video {
   color: #777;
 }
 .education-item {
-  border-bottom: 1px solid #ddd;
+  border-bottom: 2px solid #ddd !important;
   padding: 10px 0;
 }
 .education-item:last-child {
