@@ -106,7 +106,7 @@ video {
   border-bottom: 2px solid #ddd !important;
   padding: 10px 0;
 }
-.education-item:last-child {
+.last-education-item {
   border-bottom: none;
 }
 .school-name {
